@@ -1,0 +1,13 @@
+ul{
+    list-style-type: none;
+}
+table{
+    width: 100%;
+}
+
+i.edit{
+    color:#d9cd26
+}
+i.delete{
+    color:#e35e6b
+}
